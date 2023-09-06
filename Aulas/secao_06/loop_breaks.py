@@ -19,3 +19,4 @@ while True:
     comando = comando.title()
     if comando == 'Sair':
         break
+    print(comando)
