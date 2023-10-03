@@ -31,10 +31,10 @@
 # .split(caractere_de_separação)
 # Serve para transformar strings em lista
 
-# 'caractere_de_separação' .join(lista)
+# 'caractere_de_separação'.join(lista)
 # Serve para transformar lista em string
 
-# .index(valor, a_partir_de_qual_índice, passo)
+# .index(valor, a_partir_de_qual_índice, aonde_para)
 # Serve para achar o índice que está certo valor, dando o primeiro encontrado
 
 # sum(lista)

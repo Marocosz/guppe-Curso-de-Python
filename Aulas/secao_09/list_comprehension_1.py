@@ -7,7 +7,7 @@ outro iterável
 # Sintaxe da List Comprehension ========================================================================================
 
 [dado for dado in iterável]
-
+"""
 # Exemplo 01 ===========================================================================================================
 
 numeros = [1, 2, 3, 4, 5]
@@ -18,7 +18,7 @@ print(res)
 
 # A primeira parte: for numero in numeros = para cada 'numero' da lista
 # A segunda parte: numero * 10 = multiplicar 'numero' por 10
-
+"""
 # Exemplo 02 ===========================================================================================================
 
 numeros = [1, 2, 3, 4, 5]

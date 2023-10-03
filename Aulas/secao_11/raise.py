@@ -12,7 +12,7 @@ Para simplificar pense no raise como sendo útil para que possamos criar nossas 
 raise TipoDoErro('Mensagem de erro')
 
 # Exemplo ==============================================================================================================
-
+"""
 
 def colore(texto, cor):
 
@@ -37,4 +37,4 @@ def colore(texto, cor):
 colore(True, 1)  # Erro
 colore('marcos', 'Marrom')  # Erro
 
-"""
+

@@ -1,7 +1,11 @@
-def verificando_info(*args):
-    if not args:
-        print('aaaaa')
-    if args == 'a':
-        print('bbbbbb')
+x = 5
+def func1():
+    global x
+    print('aaa')
+    x = 2
+    return x
 
-verificando_info('a')
+a = func1()
+print(a)
+print(a)
+print(a)

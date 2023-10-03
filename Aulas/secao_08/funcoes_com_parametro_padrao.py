@@ -105,6 +105,8 @@ def incremento1():
 
 print(incremento1())
 
+"""
+
     # Utiizando funções dentro de funções -----------------------------------------------------------------------------
 
 def fora():
@@ -119,4 +121,3 @@ def fora():
 
 print(fora())
 
-"""
