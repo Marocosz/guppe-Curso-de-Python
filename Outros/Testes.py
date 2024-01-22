@@ -1,11 +1,11 @@
-x = 5
-def func1():
-    global x
-    print('aaa')
-    x = 2
-    return x
+l = [1, [2]]
 
-a = func1()
-print(a)
-print(a)
-print(a)
+l1 = l
+
+print(l)
+print(l1)
+
+l = -2
+
+print(l)
+print(l1)

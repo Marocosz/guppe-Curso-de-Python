@@ -1,3 +1,3 @@
-nome = 'Marcos'
-nome = nome.replace('M', '')
-print(nome)
+a = lambda x, y: x**y
+
+print(a(2, 3))

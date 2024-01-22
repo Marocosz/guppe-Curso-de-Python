@@ -9,7 +9,7 @@ Programação Orientada a Objetos - POO
 Principais Elementos da POO:
 
 - Classe -> MODELO do objeto do mundo real sendo representado computacionalmente
-- Atrivuto -> Características do objeto
+- Atributo -> Características do objeto
 - Método -> Comportamento do objeto (funções)
 - Construtor -> Método especial utilizado para a criação dos objetos
 - Objeto -> Instância da classe
